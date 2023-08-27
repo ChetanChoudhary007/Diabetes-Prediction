@@ -70,7 +70,6 @@ The dataset used for this project can be found at `/content/diabetes.csv`. It co
 Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request.
 
 ## License
-
-This project is licensed under the [MIT License](LICENSE).
+ect is licensed under the [MIT License](LICENSE).
 
 ---
